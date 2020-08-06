@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#CD202020</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="btn_default">#d6d7d9</color>
+    <color name="btn_orange">#f58310</color>
+    <color name="input_color">#202020</color>
+</resources>

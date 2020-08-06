@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="GeneralButtons">
+        <item name="android:layout_width">30pt</item>
+        <item name="android:layout_height">50pt</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@color/btn_default</item>
+        <item name="android:layout_margin">1dp</item>
+    </style>
+
+    <style name="Zero_btn" parent="GeneralButtons">
+        <item name="android:layout_width">61pt</item>
+        <item name="android:layout_weight">2</item>
+    </style>
+
+    <style name="Operation_btn" parent="GeneralButtons">
+        <item name="android:background">@color/btn_orange</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
